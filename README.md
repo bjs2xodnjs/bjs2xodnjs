@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=bjs2xodnjs&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/bjs2xodnjs"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <!--
 **bjs2xodnjs/bjs2xodnjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
